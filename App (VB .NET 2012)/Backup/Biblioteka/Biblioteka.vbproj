@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8BBD981-17C6-449B-BCED-287045E558B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Biblioteka.My.MyApplication</StartupObject>
+    <RootNamespace>Biblioteka</RootNamespace>
+    <AssemblyName>Biblioteka</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Biblioteka.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Biblioteka.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO.vb" />
+    <Compile Include="Domain.vb" />
+    <Compile Include="frmBiblioteka.Designer.vb">
+      <DependentUpon>frmBiblioteka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBiblioteka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCjenovnik.Designer.vb">
+      <DependentUpon>frmCjenovnik.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCjenovnik.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCjenovnikEdit.Designer.vb">
+      <DependentUpon>frmCjenovnikEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCjenovnikEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIznajm.Designer.vb">
+      <DependentUpon>frmIznajm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIznajm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKarakt.Designer.vb">
+      <DependentUpon>frmKarakt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKarakt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKnjigaAdd.Designer.vb">
+      <DependentUpon>frmKnjigaAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKnjigaAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKorisnik.Designer.vb">
+      <DependentUpon>frmKorisnik.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKorisnik.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKorisnikAdd.Designer.vb">
+      <DependentUpon>frmKorisnikAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKorisnikAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrimjerakAdd.Designer.vb">
+      <DependentUpon>frmPrimjerakAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrimjerakAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRacun.Designer.vb">
+      <DependentUpon>frmRacun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRacun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRaspolozivost.Designer.vb">
+      <DependentUpon>frmRaspolozivost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRaspolozivost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRent.Designer.vb">
+      <DependentUpon>frmRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVracanje.Designer.vb">
+      <DependentUpon>frmVracanje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVracanje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBiblioteka.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBiblioteka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCjenovnik.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCjenovnik.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCjenovnikEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCjenovnikEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIznajm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIznajm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKarakt.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKarakt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKnjigaAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKnjigaAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKorisnik.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKorisnik.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKorisnikAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKorisnikAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrimjerakAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPrimjerakAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRacun.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRacun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRaspolozivost.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRaspolozivost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVracanje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmVracanje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\athenaeum-library2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

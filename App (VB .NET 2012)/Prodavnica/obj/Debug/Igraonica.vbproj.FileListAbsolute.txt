@@ -1,0 +1,14 @@
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Igraonica.exe
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Igraonica.pdb
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Igraonica.xml
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmKarakt.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmKnjigaAdd.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmKorisnik.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmKorisnikAdd.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmMain.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.Resources.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.vbproj.GenerateResource.Cache
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.exe
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.xml
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.pdb
+C:\Users\Aleksa\Desktop\napredne baze projekatt\Igraonica\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Igraonica.frmIgre.resources

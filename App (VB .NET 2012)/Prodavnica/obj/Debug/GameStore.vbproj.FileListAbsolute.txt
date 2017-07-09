@@ -1,0 +1,17 @@
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.exe
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.xml
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.pdb
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\bin\Debug\Igraonica.exe
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\bin\Debug\Igraonica.pdb
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\bin\Debug\Igraonica.xml
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmLogin.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmMain.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.Resources.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\GameStore.vbproj.GenerateResource.Cache
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmGame.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmDetails.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmAddGame.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmUser.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmUserAdd.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmCart.resources
+C:\Users\Aleksa\Desktop\napredne baze projekatt\GameStore\App (VB .NET 2012)\Prodavnica\obj\Debug\Igraonica.frmPurchase.resources

@@ -1,0 +1,46 @@
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.exe
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.pdb
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.xml
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\ResolveAssemblyReference.cache
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmMain.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.Resources.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.vbproj.GenerateResource.Cache
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.exe
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.xml
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.pdb
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmCjenovnik.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKorisnik.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmBiblioteka.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRent.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmCjenovnikEdit.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKorisnikAdd.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmIznajm.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmVracanje.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKarakt.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRaspolozivost.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmPrimjerakAdd.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRacun.resources
+M:\FAX\PJ\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKnjigaAdd.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.xml
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\bin\Debug\Biblioteka.xml
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmBiblioteka.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmCjenovnik.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmCjenovnikEdit.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmIznajm.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKarakt.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKnjigaAdd.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKorisnik.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmKorisnikAdd.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmMain.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmPrimjerakAdd.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRacun.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRaspolozivost.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmRent.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.frmVracanje.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.Resources.resources
+C:\Users\Marko\Documents\Fax\V semestar\PJ\materijali za projekat\Biblioteka\Aplikacija (VB .NET 2005)\Biblioteka\obj\Debug\Biblioteka.vbproj.GenerateResource.Cache
